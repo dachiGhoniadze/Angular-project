@@ -1,1 +1,20 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('./assets/fonts-helvetica/HelveticaNeue-Light-08.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 300;
+  }
+  
+  @font-face {
+    font-family: 'Helvetica Neue';
+    src: url('./assets/fonts-helvetica/HelveticaNeue-Medium-11.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  @font-face {
+    font-family: 'Helvetica Neue';
+    src: url('./assets/fonts-helvetica/HelveticaNeue-Bold-02.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 700;
+  }
